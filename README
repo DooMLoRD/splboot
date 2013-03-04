@@ -1,14 +1,6 @@
-tools for packing boot.img and other tools
+This repo will contain source for SPLBOOT.
 
-devices:
+Ported by Bin4ry and the FreeXperia Team for the Xperia X10 (es209ra).
 
-board mogami:
-       - Xperia Arc
-       - Xperia Neo
-       - Xperia Mini
-       - Xperia Mini Pro
 
-board zeus:
-       - Xperia Play
-
-you need to place coresponding zImage and wifi modules !
+All credits to the FreeXperia Team!
